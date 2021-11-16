@@ -81,7 +81,7 @@ async def start_private(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/levina-lab/VeezMusic"
+                        "Owner", url="http://t.me/Its_romeoo"
                     )
                 ],
             ]
